@@ -3,4 +3,5 @@
 <p>Aqui irei compartilhar algumas anotações interessantes sobre o meu progresso de estudos nos cursos da DIO (Digital Innovation One).</p>
 
 ## Links Úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+- [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+- [GitBook Java Básico](https://glysns.gitbook.io/java-basico/)
