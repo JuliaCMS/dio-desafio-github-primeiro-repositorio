@@ -1,0 +1,19 @@
+Histórico de versões do Java: https://en.wikipedia.org/wiki/Java_version_history
+
+É melhor ter uma versão LTS (Long Term Support) do Java JDK pois as versões do Java sofrem modificações rapidamente e ficam obsoletas.
+Em 18/10/2022 a versão LTS mais atual é a Java SE 17.
+
+"Por que o Java JRE 8 é recomendado?
+O Java.com destina-se a usuários finais que precisam do Java para executar aplicativos em desktops e laptops. O Java 8 se integra ao seu sistema operacional para executar aplicativos Java instalados separadamente. Caso você seja solicitado a instalar o Java para executar um aplicativo de desktop, é mais provável que você precise do Java 8.
+Os desenvolvedores são encorajados a fazer download do Java Development Kit em downloads do OTN ou downloads do Oracle OpenJDK em jdk.java.net, dependendo de suas necessidades.
+Os clientes Oracle com acesso ao My Oracle Support ou ao portal Oracle Software Delivery Cloud devem considerar o download por meio desses serviços." - https://www.java.com/pt-BR/download/why-java-8-recommended.html
+
+Quando instalar a JDK evitar mudar o diretório de instalação, pois algumas IDEs buscam automaticamente o Java nesses diretórios.
+
+Após fazer a instalação da JDK, fazer a validação da configuração da variável de ambiente pelo Prompt de comando ou PowerShell. // mas não é um pré-requisito para desenvolver em Java pois iremos utilizar poderosas IDEs.
+Comando: java -version 
+
+- Foi instalado o VS Code e as extensões para o Java
+- Foi instalado o Eclipse (For Java Developers é o suficiente para o desenvolvimento de aplicações desktop; o Enterprise Java and Web Developers seria para um ambiente corporativo que trabalha com servidores de aplicação e com desenvolvimento web mais avançado - possui mais recursos)
+  criar novo projeto (java class) clicando com o botão direito em cima de src; adicionar um nome para o pacote
+- Foi instalado o IntelliJ (foi instalado a versão community - que é gratuita)
