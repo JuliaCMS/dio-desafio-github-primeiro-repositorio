@@ -1,0 +1,41 @@
+* GitBook com o conteúdo de sintaxe Java apresentado pelo instrutor Gleyson Sampaio: https://glysns.gitbook.io/java-basico/sintaxe/anatomia-das-classes
+
+Foi apresentado as principais características da sintaxe Java:
+
+- Anatomia de classes 
+	
+	public class Main {
+	//código aqui
+	}
+
+- Métodos
+
+	public static void main(String[] args) {
+	// corpo do método aqui
+	}
+
+- Padrões para a declaração de variáveis
+
+	- nunca iniciar com números;
+	- camelCase;
+	- não pode conter espaços;
+	- não utilizar palavras-chave da linguagem.
+	
+	<tipo> <nomeBemDefinido> = <atribuição ou não>;
+
+- Oito tipos primitivos de variáveis:
+
+	int
+	byte
+	short
+	long
+	float
+	double
+	boolean
+	char
+
+
+- Constantes levam "final" em seu início e sua identificação é escrita em caixa alta:
+
+	final double VALOR_DE_PI = 3.14;
+	
